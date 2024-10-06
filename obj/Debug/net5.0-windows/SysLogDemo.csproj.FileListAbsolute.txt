@@ -1,0 +1,7 @@
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.Main.resources
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.AssemblyInfoInputs.cache
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.AssemblyInfo.cs
+C:\Users\monster\Desktop\SysLogDemo\SysLogDemo\obj\Debug\net5.0-windows\SysLogDemo.csproj.CoreCompileInputs.cache
